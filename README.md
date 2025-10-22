@@ -4,6 +4,7 @@ A simple yet powerful **real-time chat app** built during my internship.
 It allows **two users to chat instantly** over a single server using **Socket.IO**.  
 
 ---
+## Live Deployed -- https://thoufiqs-chatroom-project.onrender.com/
 
 ## 🚀 Features
 - 🔗 **Real-time messaging** (WebSocket-based using Socket.IO)  
